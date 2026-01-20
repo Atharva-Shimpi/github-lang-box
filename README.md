@@ -114,6 +114,7 @@ jobs:
    - `GH_TOKEN`: Your GitHub access token (requires `gist` and `metadata:read` scopes).
 3. (Optional) Add repository variables as needed (`EXCLUDE`, `EXCLUDE_REPO`).
 
+---
   
 ## Credits
 
